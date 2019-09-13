@@ -1,0 +1,5 @@
+Ambiente de Desenvolvimento Integrado
+Compartilhamento de Códigos
+Visualizações de mudanças de código
+Versionamento
+Facilidade em dar Rollback caso dê um push sem querer na master 
